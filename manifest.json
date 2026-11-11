@@ -1,0 +1,8 @@
+{
+  "name": "seedance-presenter-breakdown",
+  "version": "1.0.0",
+  "ks-meta": {
+    "displayName": "Seedance 口播视频拆解",
+    "platform": ["MyFlicker-Work模式", "MyFlicker-Code模式"]
+  }
+}
